@@ -6,13 +6,16 @@
     margin-top: 25px;
     margin-bottom: 25px;
     box-shadow: 3px 3px 5px gray;
+    font-size: x-large;
 }
+
 .buttons{
     background-color: green;
     border-style:hidden;
     border-radius: 5px;
     box-shadow: 3px 3px 5px gray;
     color: white;
+    font-size: x-large;
 }
 body{
     background-color: rgb(233, 227, 227);
